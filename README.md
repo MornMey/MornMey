@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Flutter, Go
 - 💬 Ask me about anything related to HTML/CSS/OOP/FLUTTER
-- 📫 How to reach me: https://t.me/mornmey or 
+- 📫 How to reach me: https://t.me/mornmey
 - ⚡ Fun fact: I ❤️ m
 
 ### 📊 This week I spent my time on
