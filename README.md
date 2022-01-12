@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Mey, a computer science student at CADT(NIPTICT).
+#### I'm Mey, a computer science student at CADT or NIPTICT.
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Flutter, Go
 - 💬 Ask me about anything related to HTML/CSS/OOP/FLUTTER
